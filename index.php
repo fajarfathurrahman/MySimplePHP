@@ -1,5 +1,5 @@
  <?php 
- echo 'Hello World'; 
- echo 'This is my simple php';
- echo 'commit remote to github';
+ echo 'Hello World \n'; 
+ echo 'This is my simple php \n';
+ echo 'commit remote from github \n';
  ?> 

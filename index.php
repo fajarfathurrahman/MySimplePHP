@@ -1,10 +1,9 @@
  <?php 
  print "Hello World"; 
- echo PHP_EOL;
+ echo  nl2br (" \n ");
  print "This is my simple php";
- echo PHP_EOL;
+ echo  nl2br (" \n ");
  print "commit remote from github";
- echo PHP_EOL;
+ echo  nl2br (" \n ");
  print "Fajar Keren dan Ganteng";
- echo  nl2br ("kings \n garden");
  ?> 

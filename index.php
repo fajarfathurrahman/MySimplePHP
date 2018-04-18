@@ -6,4 +6,5 @@
  print "commit remote from github";
  echo PHP_EOL;
  print "Fajar Keren dan Ganteng";
+ echo  nl2br ("kings \n garden");
  ?> 

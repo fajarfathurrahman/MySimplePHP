@@ -6,6 +6,4 @@
  print "commit remote from github";
  echo  nl2br (" \n ");
  print "Fajar Keren dan Ganteng";
- echo  nl2br (" \n ");
- print "test push build to Jenkins";
  ?> 

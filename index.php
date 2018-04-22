@@ -3,5 +3,5 @@
  echo  nl2br (" \n ");
  print "This is my simple php";
  echo  nl2br (" \n ");
- print "commit remote from github";
+ print "webhook to GitHub";
  ?> 

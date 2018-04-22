@@ -4,6 +4,4 @@
  print "This is my simple php";
  echo  nl2br (" \n ");
  print "commit remote from github";
- echo  nl2br (" \n ");
- print "Fajar Keren dan Ganteng";
  ?> 
